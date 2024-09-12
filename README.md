@@ -1,5 +1,5 @@
 # steganography_with_gans
-An alternative implementation of Steganography using Generative Adversarial Networks (GANs for short). This project based on and heavily inspired by the paper [_SteganoGAN: High Capacity Image Steganography with GANs_]([url](https://arxiv.org/abs/1901.03892)) ([GitHub]([url](https://github.com/DAI-Lab/SteganoGAN))), by Zhang, et al. (2019) and some other works.
+An alternative implementation of Steganography using Generative Adversarial Networks (GANs for short). This project based on and heavily inspired by the paper [_SteganoGAN: High Capacity Image Steganography with GANs_]([url](https://arxiv.org/abs/1901.03892)), by Zhang, et al. (2019) and some other works.
 
 **THIS PROJECT IS STILL A WORK IN PROGRESS**
 
